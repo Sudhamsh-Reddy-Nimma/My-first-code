@@ -11,14 +11,4 @@ for s in range(1):
 print("                                      ")
 for z in range(2):
     print("#############################################")
-edit = input("What do you want to see?: ")
-if edit == "Effiel tower":
-    print("        #        ")
-    print("        #        ")
-    print("        #        ")
-    print("       # #       ")
-    print("      #   #      ")
-    print("     #######     ")
-    print("    #       #    ")
-    print("   ###########   ")
-    print("  #           #  ")
+# This is a road near the mountains
